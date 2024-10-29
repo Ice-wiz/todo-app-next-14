@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "next": "14.2.7",
-    "next-smartcode": "https://github.com/Ice-wiz/npm-next-smartcode.git",
+    "next-smartcode": "Ice-wiz/npm-next-smartcode",
     "react": "^18",
     "react-dom": "^18"
   },
